@@ -6,4 +6,6 @@
 
 [HW1 Jupyter Notebook File](EmineUyar_HW1.ipynb)
 
+[HW1 Markdown File](EmineUyar_HW1.md)
+
 [Data Sources](data.zip)
