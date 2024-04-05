@@ -1,22 +1,5 @@
----
-jupyter:
-  kernelspec:
-    display_name: R
-    language: R
-    name: ir
-  language_info:
-    codemirror_mode: r
-    file_extension: .r
-    mimetype: text/x-r-source
-    name: R
-    pygments_lexer: r
-    version: 4.3.3
-  nbformat: 4
-  nbformat_minor: 2
----
 
 <div class="cell markdown">
-
 The data sets chosen for analysis and explanation include the monthly
 recorded numbers for the production of cars, the number of unemployed
 people aged 15 or above (in thousands), and the amount of imported gold
