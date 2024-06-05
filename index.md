@@ -15,3 +15,7 @@
 ## GROUP PROJECT
 
 [Project Preprocessing Data](longtowide.ipynb)
+
+[Project Report](report.pdf)
+
+[Project Code](code.ipynb)
